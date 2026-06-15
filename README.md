@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche es nuestra y el ritmo te está llamando
+> Tú y yo en la oscuridad, las sombras devorando
+> Siento tu respiración, we are losing control
+> Latidos compartidos, dándole hasta que salga el sol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

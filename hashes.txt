@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos compartidos en silencio profundo
+
+This log tracks the cryptographic history and versioning for the song **Latidos compartidos en silencio profundo** (latidos-compartidos-en-silencio-profundo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T20:42:45.842966 | `v1` | `f0007e21e5968de44d7197b9553451f7709ec8946be4f4d5c3ddccdbc57d319a` | `a7acc518d8ece7033f301bb61bd0b7adcfbf2c6618467029e5f5a44d20c7ee2b` | `2026-06-15_latidos-compartidos-en-silencio-profundo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
